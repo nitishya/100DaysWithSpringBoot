@@ -39,4 +39,9 @@ private String description;
 
 @NotNull(message = "Completed status must be specified")
 private Boolean completed;
-. 
+.
+
+```
+
+![image](https://github.com/user-attachments/assets/69ff3734-b900-46bc-aad8-fc2518286744)
+
